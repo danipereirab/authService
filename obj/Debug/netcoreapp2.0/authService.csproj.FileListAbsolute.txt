@@ -1,0 +1,10 @@
+/Users/danipereira/Projects/authService/bin/Debug/netcoreapp2.0/authService.deps.json
+/Users/danipereira/Projects/authService/bin/Debug/netcoreapp2.0/authService.runtimeconfig.json
+/Users/danipereira/Projects/authService/bin/Debug/netcoreapp2.0/authService.runtimeconfig.dev.json
+/Users/danipereira/Projects/authService/bin/Debug/netcoreapp2.0/authService.dll
+/Users/danipereira/Projects/authService/bin/Debug/netcoreapp2.0/authService.pdb
+/Users/danipereira/Projects/authService/obj/Debug/netcoreapp2.0/authService.csproj.CoreCompileInputs.cache
+/Users/danipereira/Projects/authService/obj/Debug/netcoreapp2.0/authService.AssemblyInfoInputs.cache
+/Users/danipereira/Projects/authService/obj/Debug/netcoreapp2.0/authService.AssemblyInfo.cs
+/Users/danipereira/Projects/authService/obj/Debug/netcoreapp2.0/authService.dll
+/Users/danipereira/Projects/authService/obj/Debug/netcoreapp2.0/authService.pdb
