@@ -20,6 +20,7 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using AuthService.Models.ProfileViewModels;
 
+
 namespace AuthService.Controllers
 {
     [Route("api/[controller]")]
