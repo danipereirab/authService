@@ -20,7 +20,6 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using AuthService.Models.ProfileViewModels;
 
-//Dani Pereira
 
 namespace AuthService.Controllers
 {
